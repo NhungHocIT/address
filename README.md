@@ -36,12 +36,14 @@ defaultConfig {
 ---
 
 ## 🖼️ Giao diện ứng dụng
+// **màn hình tìm kiếm**
+![alt text](image.png) 
 
-![alt text](image.png) // màn hình tìm kiếm
+**// danh sách kết quả**
+![alt text](image-1.png)
 
-![alt text](image-1.png)// danh sách kết quả
-
-![alt text](image-2.png)// mở google map
+**// mở google map**
+![alt text](image-2.png)
 
 
 ---
