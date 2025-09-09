@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:background="@android:color/white">
+
+    <TextView
+        android:id="@+id/txtDisplayName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hanoi, Vietnam"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/txtLatLon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lat: 21.0278, Lon: 105.8342"
+        android:textSize="14sp"
+        android:textColor="@android:color/darker_gray" />
+
+</LinearLayout>

@@ -1,0 +1,17 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Android/IntelliJ
+*.iml
+.gradle
+/local.properties
+/.idea
+/build
+/captures
+.externalNativeBuild
+
+# Logs
+*.log
+
+# Generated
+/app/build
