@@ -54,8 +54,11 @@ defaultConfig {
 ---
 
 📂 Cấu trúc dự án address/
+
 │── app/ # Source code chính (Android)
+
 │── gradle/ # Cấu hình Gradle wrapper
+
 │── README.md # Tài liệu giới thiệu dự án
 
 ## 👨‍💻 Tác giả
